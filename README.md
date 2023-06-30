@@ -1,4 +1,4 @@
-<h1 align="center">Oragano Alura</h1>
+<h1 align="center">Organo Alura</h1>
 
 ## Descrição do Projeto
 <p align="center">Sistema desenvolvido para criar seus times da sua empresa com cargos e times específicos.</p>
