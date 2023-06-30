@@ -5,5 +5,5 @@
 
 <p align="center">Acesse em:</p>
 <h1 align="center">
-    <a href="new-organo2.vercel.app">🔗 Organo</a>
+    <a href="https://new-organo2.vercel.app">🔗 Organo</a>
 </h1>
