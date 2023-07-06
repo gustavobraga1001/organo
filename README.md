@@ -7,6 +7,6 @@
 
 <p align="center">Acesse em:</p>
 <h1 align="center">
-    <a href="https://new-organo2.vercel.app" target="_blank"k>🔗 Organo</a>
+    <a href="https://new-organo2.vercel.app" target="_blank">🔗 Organo</a>
 </h1>
 <br/>
